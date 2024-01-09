@@ -1,3 +1,7 @@
+# v1.0.1
+Update mod:
++ FlipMods-ReservedItemSlotCore-1.8.1
+
 # v1.0.0
 
 Add modlist:
