@@ -10,7 +10,7 @@ if (Test-Path $zipFilePath) {
 }
 
 # Liste der zu inkludierenden Dateien
-$includedFiles = @("manifest.json", "logo.png", "README.md")
+$includedFiles = @("manifest.json", "icon.png", "README.md")
 
 # Zippen der ausgewählten Dateien
 Compress-Archive -Path $includedFiles -DestinationPath $zipFilePath
