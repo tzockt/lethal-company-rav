@@ -1,6 +1,6 @@
 {
-    "name": "Ravensburg DC Pack",
-    "version_number": "1.0.0",
+    "name": "Ravensburg_DC_Pack",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/tzockt/lethal-company-rav",
     "description": "This is a Modpack for our private Discord :)",
     "dependencies": [
